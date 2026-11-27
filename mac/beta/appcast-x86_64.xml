@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>PAL (beta, x86_64)</title>
+    <link>https://updates.trypai.ai/mac/beta/appcast-x86_64.xml</link>
+    <description>Updates to PAL for Mac</description>
+    <language>en</language>
+    <item>
+      <title>PAL 0.9.0</title>
+      <pubDate>Thu, 26 Nov 2026 23:38:56 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink sparkle:edSignature="h9cTr+7ZL3CRaDe1aFNmCLYUy+qjhsv4+pSyC1RBGzvGv/cCq/Sa3oa8ZH/5QUXAZRTb2H1wloUPjaxSo3f9AA==" sparkle:length="664">https://updates.trypai.ai/releases/0.9.0/notes.md</sparkle:releaseNotesLink>
+      <enclosure url="https://updates.trypai.ai/releases/0.9.0/PAL-0.9.0-x86_64.zip" length="31959799" type="application/octet-stream" sparkle:edSignature="44uMaM17MuuhhFAExS4z9z0oHTd/tpuxe95Li0nh7P43amCLdhtknmJFgQsjx/s55J61WondqU2dhjGKk+q7AA=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: lX8BW7YcLfMXxXrs2ypTb3xOYLJEJhs6ZxTHU/sckx+mb5EARksTUTGj+QfMxHLrSjP5ko31cUUvIiu+lRlODA==
+length: 1394
+-->

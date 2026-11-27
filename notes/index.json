@@ -1,0 +1,12 @@
+{
+  "latest": "0.9.0",
+  "notes": [
+    {
+      "date": "2026-11-27T13:06:54Z",
+      "sha256": "c06ea202c97cbb432a28d97c8d90f360d407ec57d4b8894b241b90e0eb2bd317",
+      "url": "releases/0.9.0/notes.md",
+      "version": "0.9.0"
+    }
+  ],
+  "schema": 1
+}
